@@ -1,0 +1,44 @@
+html{
+    background-color: burlywood;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1{
+    color: rgb(65, 68, 72);
+    text-align: center;
+    font-style: italic;
+}
+
+p{
+    text-align: center;
+    font-style: italic;
+    color: rgb(65, 68, 72);
+}
+
+h2{
+    color: rgb(65, 68, 72);
+    text-align: center;
+    font-style: italic;
+    
+}
+ol{
+    color: rgb(65, 68, 72);
+    list-style-position: inside;
+    text-align: center;
+}
+
+table{
+    border-style: ridge;
+    color: rgb(65, 68, 72);
+}
+
+iframe{
+    display: block;
+    margin: 0 auto;
+}
